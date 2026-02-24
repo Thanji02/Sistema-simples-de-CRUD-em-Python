@@ -156,8 +156,8 @@ Crie um arquivo `LICENSE` ou escolha um template no GitHub se desejar.
 
 ## 📬 Contato
 
-*   **Autor:** Nathan Miyasaki
-
+*   **Autor:** Nathan Miyasaki | 
+*   **Linkedln:** https://www.linkedin.com/in/nathan-miyasaki/
 
 ***
 
