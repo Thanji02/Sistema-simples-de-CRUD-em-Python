@@ -1,11 +1,5 @@
 # 📘 Cadastro de Contatos – CRUD em Python + SQLite
 
-https://img.shields.io/badge/status-active-success.svg]()
-https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white]()
-https://img.shields.io/badge/SQLite-embutido-044a64?logo=sqlite&logoColor=white]()
-https://img.shields.io/badge/license-MIT-informational.svg]()
-https://img.shields.io/badge/PRs-welcome-brightgreen.svg]()
-
 Um **CRUD de contatos** feito na unha, usando **Python** (padrão da linguagem) e **SQLite** (integrado ao Python via `sqlite3`, sem instalar nada).  
 Ideal para praticar **manipulação de dados**, **boas práticas de código** e **organização de projeto**.
 
